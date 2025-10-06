@@ -1,0 +1,2 @@
+Question 10: What are absolute vs relative paths?
+Answer: An absolute path specifies a file or directory's full location from the filesystem root. A relative path describes the location relative to your current working directory 
