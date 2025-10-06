@@ -1,0 +1,2 @@
+Question 4: What does git merge do?
+Answer: git merge combines the changes from another branch into the current branch by integrating the histories; it creates a merge commit when necessary or performs a fast-forward if possible, and may require resolving conflicts for overlapping changes.
