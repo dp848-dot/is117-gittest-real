@@ -1,0 +1,2 @@
+Question 5: What is git pull vs git push?
+Answer: git pull downloads commits from a remote and integrates them into your current branch (it runs git fetch then git merge or rebase depending on your config). git push uploads your local commits to the remote repository to update the corresponding remote branch.
