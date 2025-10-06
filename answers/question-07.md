@@ -1,0 +1,2 @@
+Question 7: How do you use cd? Show 3 ways.
+Answer: Use cd answers (relative path) to move into a subdirectory, use an absolute path like cd C:\Users\12012\Desktop\is117-gittest-real (Windows) or cd /home/alice/project (Unix) to jump to a specific location, and use cd .. to go up one directory (you can also use cd ~ to go to your home directory).
