@@ -1,0 +1,2 @@
+Question: What does ls -la show?
+Answer: ls -la lists all entries in the current directory (including hidden files like those starting with . and the ./.. entries) in long format. The long format shows permissions, link count, owner, group, size, modification time, and the filename.
