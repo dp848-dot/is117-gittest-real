@@ -1,0 +1,2 @@
+Question 3: What is a Git branch?
+Answer: A Git branch is a lightweight movable pointer to a commit that lets you develop features or fixes in isolation from the main line of work. Branches allow multiple concurrent lines of development and can be merged back together when ready.
