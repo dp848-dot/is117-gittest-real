@@ -1,0 +1,2 @@
+Question 1: What does git status do?
+Answer: git status displays the current state of your working directory and staging area. It lists modified, staged, and untracked files so you can see what will be committed or what needs attention.
