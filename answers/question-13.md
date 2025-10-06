@@ -1,0 +1,2 @@
+Question 13: Why is rm -rf dangerous?
+Answer: rm -rf forcefully and recursively deletes files and directories without prompting, so running it on the wrong path (especially as root/Administrator) can permanently remove important or system files that are hard or impossible to recover. Always double-check the path (or test with ls first) and avoid running it with elevated privileges unless absolutely certain.
