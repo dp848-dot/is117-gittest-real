@@ -1,0 +1,2 @@
+Question 2: What is git add vs git commit?
+Answer: git add moves changes (new, modified, or deleted files) into the staging area so they're prepared for inclusion; git commit records whatever is staged as a new snapshot in the repository's history with a commit message.
