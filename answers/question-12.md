@@ -1,0 +1,2 @@
+Question 12: What is cp vs mv?
+Answer: cp copies files or directories (use -r for directories, -a to preserve attributes), leaving the original in place. mv moves or renames files or directories (it removes the original path/entry); across filesystems it may copy then delete the source.
