@@ -1,0 +1,2 @@
+Question 14: What does cat do?
+Answer: cat reads one or more files and writes their contents to standard output (prints file contents to the terminal). It’s often used to view files, concatenate multiple files, or pipe file contents into other commands or redirected outpu
