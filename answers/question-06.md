@@ -1,0 +1,2 @@
+Question: What does pwd do?
+Answer: pwd prints the current working directory (the full path) to the terminal. In Unix shells it's the print working directory command; in PowerShell pwd is an alias for Get-Location, which returns the current path.
